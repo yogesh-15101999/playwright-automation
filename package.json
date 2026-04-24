@@ -15,12 +15,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^9.8.0",
+    "@faker-js/faker": "^9.9.0",
     "@playwright/test": "^1.58.2",
-    "@types/node": "^22.15.3",
-    "dotenv": "^16.5.0",
+    "@types/node": "^22.19.17",
+    "dotenv": "^16.6.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "otpauth": "^9.4.0"
