@@ -1,0 +1,72 @@
+{
+    "createVessel": {
+        "typeCode": "Bulk Carrier",
+        "typeDwt": "Kamsarmax",
+        "builtYear": "2018",
+        "vesselDwt": "82000",
+        "swDraft": "14.5",
+        "tpc": "63.5",
+        "baleCapacity": "95000",
+        "grainCapacity": "97000",
+        "deckCapacity": "3000",
+        "scrubber": "None",
+        "ownership": "OV - Owned Vessel",
+        "dailyCost": "8500",
+        "email": "ops@automationtesting.com",
+        "societyName": "Korean Register of Shipping (KR)"
+    },
+    "editVessel": {
+        "email": "operations@automationtesting.com"
+    },
+    "ciiRatings": {
+        "vlsfoConsumption": "1250",
+        "mgoConsumption": "1250",
+        "annualDistSailed": "29850"
+    },
+    "engineDetails": {
+        "port": {
+            "mainEng": [
+                "1",
+                "1.2",
+                "0.8"
+            ],
+            "auxEng": [
+                "2.5",
+                "2.8",
+                "1.8"
+            ],
+            "boiler": [
+                "0.3",
+                "0.4",
+                "0.2"
+            ]
+        },
+        "sea": {
+            "speed": [
+                "13.5",
+                "14"
+            ],
+            "mainEng": [
+                "24.5",
+                "23"
+            ],
+            "auxEng": [
+                "1.2",
+                "1"
+            ],
+            "boiler": [
+                "0.2",
+                "0.2"
+            ]
+        }
+    },
+    "constants": {
+        "sea": "300",
+        "lakes": "50",
+        "freshWater": "400",
+        "others": "75",
+        "beaufort": "Gentle Breeze",
+        "seaState": "Smooth",
+        "seaSwell": "No Swell"
+    }
+}

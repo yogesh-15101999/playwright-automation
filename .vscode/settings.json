@@ -1,0 +1,7 @@
+{
+    "playwright.reuseBrowser": false,
+    "playwright.showTrace": false,
+    "playwright.testIdAttributeName": "data-testid",
+    "playwright.configFile": "playwright.config.ts",
+    "playwright.workspaceFolder": "${workspaceFolder}"
+}

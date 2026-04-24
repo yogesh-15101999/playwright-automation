@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables - NEVER commit this
+.env
+
+# Playwright output
+playwright-report/
+test-results/
+allure-results/
+dist/

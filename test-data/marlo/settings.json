@@ -1,0 +1,23 @@
+{
+    "businessProfile": {
+        "website": "https://www.example.com"
+    },
+    "invoiceSetup": {
+        "website": "https://www.marloautomation.com",
+        "address": "10 Downing Street",
+        "city": "Leeds",
+        "state": "London",
+        "postCode": "11421"
+    },
+    "security": {
+        "newPassword": "Marlo@12"
+    },
+    "billing": {
+        "companyName": "Marlo Automation Ltd",
+        "addressLine1": "10th Downing Street",
+        "addressLine2": "Opposite to New Bridge",
+        "city": "Leeds",
+        "state": "Mathawas",
+        "postalCode": "11421"
+    }
+}

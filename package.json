@@ -1,0 +1,28 @@
+{
+  "name": "claude-playwright",
+  "version": "1.0.0",
+  "description": "Marlo QA Automation Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --project=Marlo-Web-Automation",
+    "test:banking": "playwright test --project=Banking-Web-Automation",
+    "test:api": "playwright test --project=API-Automation",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^22.15.3",
+    "dotenv": "^16.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "otpauth": "^9.4.0"
+  }
+}

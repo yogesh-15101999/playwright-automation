@@ -1,0 +1,46 @@
+{
+    "charterer": {
+        "country": "united states",
+        "address": "10 Downing Street"
+    },
+    "broker": {
+        "currency": "USD - US Dollar",
+        "country": "united states",
+        "address": "10 Downing Street"
+    },
+    "createCargo": {
+        "vesselType": "Kamsarmax",
+        "laycanDate": "Choose Wednesday, April 1st, 2026",
+        "cpDate": "Choose Wednesday, April 1st, 2026",
+        "cpQty": "75000",
+        "invoiceQty": "75000",
+        "optionPercentage": "2.5",
+        "freightRate": "60",
+        "status": "Targeted",
+        "port1Function": "loading",
+        "port1Name": "singapore",
+        "port1Qty": "75000",
+        "port1LoadRate": "75000",
+        "port1UnitRate": "Per day",
+        "port1Terms": "shinc",
+        "port1Expense": "25000",
+        "port2Function": "discharging",
+        "port2Name": "Tokyo",
+        "port2Qty": "75000",
+        "port2LoadRate": "75000",
+        "port2UnitRate": "Per day",
+        "port2Terms": "shinc",
+        "port2Expense": "25000",
+        "commission1Type": "address commission",
+        "commission1Rate": "3.75",
+        "commission2Type": "broker",
+        "commission2Rate": "2.5",
+        "invoicePercentage": "75",
+        "paymentTermsInvoice": "After Loading",
+        "paymentTermsBalance": "After Discharging"
+    },
+    "editCargo": {
+        "freightRate": "62",
+        "invoicePercentage": "70"
+    }
+}

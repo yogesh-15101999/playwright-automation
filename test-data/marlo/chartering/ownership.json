@@ -1,0 +1,82 @@
+{
+    "owner": {
+        "companies": [
+            "BlueWave Shipping",
+            "Oceanic Marine",
+            "Atlantic Chartering",
+            "Pacific Crest Logistics",
+            "HarborLine Transport",
+            "Neptune Maritime",
+            "SilverAnchor Group",
+            "GoldenSail Holdings",
+            "Seabreeze Carriers",
+            "NorthStar Navigation",
+            "Evergreen Marine Co",
+            "Coral Reef Shipping",
+            "Horizon Fleet Services",
+            "Poseidon Marine Ltd",
+            "Triton Vessel Management",
+            "DeepSea Charter Co",
+            "Unity Maritime Group",
+            "Voyager Shipping Ltd",
+            "Summit Ocean Carriers",
+            "Liberty Marine Services"
+        ],
+        "suffix": "Owner",
+        "currency": "USD - US Dollar",
+        "country": "united states",
+        "address": "10 Downing Street"
+    },
+    "techManager": {
+        "companies": [
+            "Apex Maritime Solutions",
+            "HarborTech Management",
+            "BlueHarbor Marine Services",
+            "Titan Vessel Operations",
+            "OceanBridge Technical",
+            "PrimeWave Ship Management",
+            "AnchorPoint Marine Ltd",
+            "Global Crest Maritime",
+            "SeaCore Technical Services",
+            "MarinerEdge Management",
+            "IronHull Marine Group",
+            "Skyline Vessel Services",
+            "NauticStar Management",
+            "GrandOcean Technical",
+            "Vertex Marine Solutions",
+            "SeaLink Vessel Management",
+            "RoyalAnchor Technical",
+            "Bridgewater Marine Ltd",
+            "NorthWave Ship Services",
+            "Elite Maritime Management"
+        ],
+        "suffix": "Tech",
+        "currency": "USD - US Dollar",
+        "country": "united states",
+        "address": "10 Downing Street"
+    },
+    "createOwnership": {
+        "laycanFrom": "01 01 2025 | 00:00",
+        "laycanTo": "31 12 2025 | 00:00",
+        "deliveryPort": "singapore",
+        "deliveryPortOption": "Singapore, SG",
+        "deliveryDate": "01 01 2025 | 00:00",
+        "redeliveryPort": "tokyo",
+        "redeliveryPortOption": "Tokyo, JP",
+        "redeliveryDate": "31 12 2025 | 00:00",
+        "cpYear": "2025",
+        "cpMonth": "December",
+        "cpDay": "Choose Monday, December 15th, 2025",
+        "status": "Fixed",
+        "billingSchedule": "In Arrears",
+        "billingPeriod": "Every 30 days",
+        "expense1Type": "Technical Management fee",
+        "expense1Rate": "800",
+        "expense2Type": "Insurance",
+        "expense2Rate": "200"
+    },
+    "editOwnership": {
+        "minimumDuration": "300",
+        "maximumDuration": "365"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "createEstimate": {
+        "fuelPriceVLSFO": "700",
+        "fuelPriceMGO": "900",
+        "terminatingPort": "Tokyo",
+        "terminatingPortOption": "Tokyo, JP"
+    }
+}

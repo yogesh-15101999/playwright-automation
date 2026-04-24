@@ -1,0 +1,110 @@
+{
+    "customer": {
+        "companies": [
+            "Nexora Solutions",
+            "Vortexa Technologies",
+            "Zephyros Innovations",
+            "Lumora Systems",
+            "Quantex Dynamics",
+            "Solvexa Labs",
+            "Trinexis Ventures",
+            "Aetheris Consulting",
+            "Velatrix Corp",
+            "Cyphora Enterprises"
+        ],
+        "website": "www.example.com",
+        "vat": "Vat 123",
+        "currency": "usd",
+        "notes": "Automation Contact - Customer",
+        "country": "united states",
+        "state": "New York",
+        "postalCode": "11421",
+        "city": "Leeds",
+        "address": "Playwright Automation street",
+        "firstName": "Automation",
+        "lastName": "Test",
+        "email": "exampleemail@gmail.com",
+        "edit": {
+            "vat": "Vat - 123",
+            "address": "10 Downing Street"
+        },
+        "contactPerson": {
+            "firstName": "Mark",
+            "lastName": "Antony",
+            "email": "markantony@gmail.com"
+        }
+    },
+    "lender": {
+        "companies": [
+            "Aetheris Consulting",
+            "Velatrix Corp",
+            "Cyphora Enterprises",
+            "Amberveil Capital",
+            "Brightshore Lending",
+            "Cobalt Bridge Finance",
+            "Dawncrest Funds",
+            "Edenwall Investments",
+            "Frostline Capital",
+            "Greystone Lenders"
+        ],
+        "website": "www.example.com",
+        "vat": "Vat 123",
+        "currency": "usd",
+        "notes": "Automation Contact - Lender",
+        "country": "united states",
+        "state": "New York",
+        "postalCode": "11421",
+        "city": "Leeds",
+        "address": "Playwright Automation street",
+        "firstName": "Automation",
+        "lastName": "Test",
+        "email": "exampleemail@gmail.com",
+        "edit": {
+            "vat": "Vat - 123",
+            "address": "10 Downing Street"
+        },
+        "contactPerson": {
+            "firstName": "Mark",
+            "lastName": "Antony",
+            "email": "markantony@gmail.com"
+        }
+    },
+    "vendor": {
+        "companies": [
+            "Lumora Systems",
+            "Quantex Dynamics",
+            "Solvexa Labs",
+            "Trinexis Ventures",
+            "Nexara Systems",
+            "Vortexia Tech",
+            "Pulsara Innovations",
+            "Zenthor Dynamics",
+            "Cryonix Labs",
+            "Elytron Corp"
+        ],
+        "website": "www.example.com",
+        "vat": "Vat 123",
+        "currency": "usd",
+        "notes": "Automation Contact - Vendor",
+        "country": "united states",
+        "state": "New York",
+        "postalCode": "11421",
+        "city": "Leeds",
+        "address": "Playwright Automation street",
+        "firstName": "Automation",
+        "lastName": "Test",
+        "email": "exampleemail@gmail.com",
+        "edit": {
+            "vat": "Vat - 123",
+            "address": "10 Downing Street"
+        },
+        "contactPerson": {
+            "firstName": "Mark",
+            "lastName": "Antony",
+            "email": "markantony@gmail.com"
+        }
+    },
+    "document": {
+        "filePath": "test-data/files/sample.pdf"
+    }
+}
